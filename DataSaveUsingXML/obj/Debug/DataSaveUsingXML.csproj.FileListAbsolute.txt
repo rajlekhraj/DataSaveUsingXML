@@ -1,0 +1,10 @@
+D:\GitCode\DataSaveUsingXML\DataSaveUsingXML\bin\Debug\DataSaveUsingXML.exe.config
+D:\GitCode\DataSaveUsingXML\DataSaveUsingXML\bin\Debug\DataSaveUsingXML.exe
+D:\GitCode\DataSaveUsingXML\DataSaveUsingXML\bin\Debug\DataSaveUsingXML.pdb
+D:\GitCode\DataSaveUsingXML\DataSaveUsingXML\obj\Debug\DataSaveUsingXML.csproj.AssemblyReference.cache
+D:\GitCode\DataSaveUsingXML\DataSaveUsingXML\obj\Debug\DataSaveUsingXML.MasterEntry.resources
+D:\GitCode\DataSaveUsingXML\DataSaveUsingXML\obj\Debug\DataSaveUsingXML.Properties.Resources.resources
+D:\GitCode\DataSaveUsingXML\DataSaveUsingXML\obj\Debug\DataSaveUsingXML.csproj.GenerateResource.cache
+D:\GitCode\DataSaveUsingXML\DataSaveUsingXML\obj\Debug\DataSaveUsingXML.csproj.CoreCompileInputs.cache
+D:\GitCode\DataSaveUsingXML\DataSaveUsingXML\obj\Debug\DataSaveUsingXML.exe
+D:\GitCode\DataSaveUsingXML\DataSaveUsingXML\obj\Debug\DataSaveUsingXML.pdb
